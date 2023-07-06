@@ -1,0 +1,20 @@
+.pTag {
+  text-align: center;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-size: x-large;
+  font-style: italic;
+}
+
+.h1 {
+  text-align: center;
+}
+
+.button {
+  text-align: center;
+  color: aquamarine;
+  background-color: rgb(220, 56, 56);
+}
+
+.div {
+  align-items: center;
+}
